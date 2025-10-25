@@ -3,16 +3,25 @@
 <br><br>
 
 <div align="center" style="text-align: center;">
-  <a href="https://iamprogrammer.lk">
-    <img src="https://avatars.githubusercontent.com/u/17584831?v=4" alt="iamprogrammer.lk" width="200">
+  <a href="https://iamprogrammer.lk/theme_blue_clue">
+    <img src="resource/promo_tile/marquee_promo_tile_1400x560.png" alt="iamprogrammer.lk" width="100%">
   </a>
 </div>
 
 <br><br>
 
-# {{PROJECT_TITLE}}
+# Blue Clue (Theme by I am Programmer)
 
-{{PROJECT_DESCRIPTION}}
+_Theme for Chromium-based Web Browsers_
+
+Immerse yourself in calm, creative energy with Blue Clue. This theme blends soothing blue tones with a hint of mystery,
+inspiring focus and imagination every time you open a tab. Designed for Google Chrome and other Chromium-based web
+browsers, it’s perfect for thinkers, creators, and problem-solvers who love a touch of cool sophistication.
+
+Transform your browsing experience today with this beautiful theme, where minimalism meets elegance. With this
+beautifully designed theme, you can enjoy a more pleasant and productive digital journey.
+
+📢 Feel free to leave feedback 📢
 
 > [!TIP]
 >
@@ -199,7 +208,7 @@ See [license][license_md] for more information.
 
 ---
 
-[chromewebstore]: https://chromewebstore.google.com/detail/{{CHROME_EXTENSION_ID}}
+[chromewebstore]: https://chromewebstore.google.com/detail/dnalbbkfhlogllhhpmfahahlefeicgcm
 [releases]: /../../releases
 [extensions]: chrome://extensions
 [chrome]: https://www.google.com/chrome/
