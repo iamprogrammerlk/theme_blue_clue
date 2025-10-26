@@ -1,14 +1,17 @@
-<a name="readme-top"></a>
+<a name="page_top"></a>
 
-<br><br>
+<br>
+<br>
 
 <div align="center" style="text-align: center;">
   <a href="https://iamprogrammer.lk/theme_blue_clue">
-    <img src="resource/promo_tile/marquee_promo_tile_1400x560.png" alt="iamprogrammer.lk" width="100%">
+    <img src="resource/promo_tile/marquee_promo_tile_1400x560.png" alt="Blue Clue (Theme by I am Programmer)"
+    width="100%">
   </a>
 </div>
 
-<br><br>
+<br>
+<br>
 
 # Blue Clue (Theme by I am Programmer)
 
@@ -21,15 +24,31 @@ browsers, it’s perfect for thinkers, creators, and problem-solvers who love a 
 Transform your browsing experience today with this beautiful theme, where minimalism meets elegance. With this
 beautifully designed theme, you can enjoy a more pleasant and productive digital journey.
 
-📢 Feel free to leave feedback 📢
+<br>
+<br>
 
-> [!TIP]
->
-> ## ⭐ Star This Repository
->
-> If you enjoy this project and my work, please consider supporting me giving a ⭐ star ⭐ to this repository.
+<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
 
-<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
+---
+
+# 📝 Documentation
+
+### 📚 Official Documentation: [Our Documentation][documentation]
+
+### 🚀 Getting Started Guide: [Quickstart][documentation]
+
+### 💡 Examples & Demos: [Examples][documentation]
+
+### 🎬 Tutorials & Guides: [Our Tutorials Page][youtube]
+
+### 🎥 Video Tutorials: [YouTube Channel][youtube]
+
+### 📖 API Reference: [API Documentation][api_documentation]
+
+<br>
+<br>
+
+<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
 
 ---
 
@@ -91,20 +110,10 @@ Then, unzip the file and follow the instructions below, which may vary slightly 
 
 ![screenshot_05_1280x800_search][screenshot_05_1280x800_search]
 
-<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
+<br>
+<br>
 
----
-
-# 💕 Credits
-
-- I am Programmer [@iamprogrammerlk][iamprogrammer_github]
-
-  - 🌐 [iamprogrammer.lk][iamprogrammer_url]
-  - ✉️ [contact@iamprogrammer.lk][iamprogrammer_email]
-
-- [Contributors][contributors]
-
-<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
+<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
 
 ---
 
@@ -117,9 +126,9 @@ If you have a suggestion that would make this better, please fork the repo and c
 You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
 
 1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Make your changes with clear commit messages (`git commit -m "Add some AmazingFeature"`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create a feature branch (`git checkout -b feature/amazing_feature`)
+3. Make your changes with clear commit messages (`git commit -m "Add some amazing feature"`)
+4. Push to the Branch (`git push origin feature/amazing_feature`)
 5. Submit a pull request with description of changes
 
 Read more about,
@@ -134,7 +143,9 @@ Read more about,
 Get in touch with the project developers and the community through our [Reddit.com Community][community] forum.
 
 <br>
-<p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
+<br>
+
+<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
 
 ---
 
@@ -148,7 +159,10 @@ Please read the [support.md][support] and [governance.md][governance] for more d
 > Please do not report security vulnerabilities through public **Community Forum**, **GitHub Issues**,
 > **Discussions**, or **Pull Requests**. Instead, use [`SECURITY ADVISORIES`][security_advisories]
 
-<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
+<br>
+<br>
+
+<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
 
 ---
 
@@ -163,13 +177,16 @@ and be bound by the terms of the [Contributor License Agreement][contributor_lic
 > This project is not a platform for discussing politics, social issues, race, religion, gender, or sexual orientation.
 > Please keep those discussions elsewhere.
 
-<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
+<br>
+<br>
+
+<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
 
 ---
 
 # ⚖️ License
 
-### This work is distributed under the [MIT License 1.0][license] License.
+This work is distributed under the [MIT License 1.0 (MIT)][license] License.
 
 See [license][license_md] for more information.
 
@@ -195,7 +212,26 @@ See [license][license_md] for more information.
 - ⛔ ~~Trademark use~~
 - 🚫 Warranty
 
-<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
+<br>
+<br>
+
+<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
+
+---
+
+# 💕 Credits
+
+- I am Programmer [@iamprogrammerlk][iamprogrammer_github]
+
+  - 🌐 [iamprogrammer.lk][iamprogrammer_url]
+  - ✉️ [contact@iamprogrammer.lk][iamprogrammer_email]
+
+- [Contributors][contributors]
+
+<br>
+<br>
+
+<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
 
 ---
 
@@ -204,11 +240,13 @@ See [license][license_md] for more information.
 - Copyright © 2025 🇱🇰 I am Programmer [@iamprogrammerlk][iamprogrammer_github].
 - Copyright © 2025 ❤️ [Contributors][contributors].
 
-<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
+<br>
+<br>
+
+<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
 
 ---
 
-[chromewebstore]: https://chromewebstore.google.com/detail/dnalbbkfhlogllhhpmfahahlefeicgcm
 [releases]: /../../releases
 [extensions]: chrome://extensions
 [chrome]: https://www.google.com/chrome/
@@ -226,7 +264,6 @@ See [license][license_md] for more information.
 [iamprogrammer_url]: https://iamprogrammer.lk
 [iamprogrammer_email]: mailto:contact@iamprogrammer.lk
 [contributors]: /../../graphs/contributors
-[community]: https://reddit.com/r/iamprogrammerlk
 [contributing]: /contributing.md
 [governance]: /governance.md
 [support]: /support.md
@@ -237,3 +274,8 @@ See [license][license_md] for more information.
 [license]: https://choosealicense.com/licenses/mit/
 [license_md]: /license.md
 [security_advisories]: /../../security/advisories/new
+[chromewebstore]: https://chromewebstore.google.com/detail/dnalbbkfhlogllhhpmfahahlefeicgcm
+[community]: https://reddit.com/r/iamprogrammerlk
+[documentation]: https://iamprogrammer.lk/theme_blue_clue
+[api_documentation]: https://iamprogrammer.lk/theme_blue_clue
+[youtube]: https://youtube.com/@iamprogrammerlk
